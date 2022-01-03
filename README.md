@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Eu sou Diego Jami e esse é o meu repositório! 😉
 
 <!--
 **rotineiro/rotineiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
